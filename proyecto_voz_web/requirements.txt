@@ -1,0 +1,8 @@
+# PyTorch se instala aparte (ver README.md)
+# ffmpeg también debe estar instalado en la computadora
+openai-whisper
+gradio
+plotly
+librosa
+numpy
+scipy

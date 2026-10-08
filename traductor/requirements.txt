@@ -1,0 +1,8 @@
+# PyTorch se instala aparte (ver README.md)
+faster-whisper
+transformers
+sentencepiece
+sacremoses
+gradio
+scipy
+soundfile
